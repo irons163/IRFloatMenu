@@ -10,12 +10,11 @@
 		B5DF8AB51CAAC13B007A2BF1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B5DF8AB41CAAC13B007A2BF1 /* main.m */; };
 		B5DF8AB81CAAC13B007A2BF1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B5DF8AB71CAAC13B007A2BF1 /* AppDelegate.m */; };
 		B5DF8ABB1CAAC13B007A2BF1 /* GameScene.m in Sources */ = {isa = PBXBuildFile; fileRef = B5DF8ABA1CAAC13B007A2BF1 /* GameScene.m */; };
-		B5DF8ABD1CAAC13B007A2BF1 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = B5DF8ABC1CAAC13B007A2BF1 /* GameScene.sks */; };
 		B5DF8AC01CAAC13B007A2BF1 /* GameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B5DF8ABF1CAAC13B007A2BF1 /* GameViewController.m */; };
 		B5DF8AC31CAAC13B007A2BF1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5DF8AC11CAAC13B007A2BF1 /* Main.storyboard */; };
 		B5DF8AC51CAAC13B007A2BF1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5DF8AC41CAAC13B007A2BF1 /* Images.xcassets */; };
 		B5DF8AC81CAAC13B007A2BF1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B5DF8AC61CAAC13B007A2BF1 /* LaunchScreen.xib */; };
-		B5DF8AD41CAAC13C007A2BF1 /* Try_Sprite_viewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5DF8AD31CAAC13C007A2BF1 /* Try_Sprite_viewTests.m */; };
+		B5DF8AD41CAAC13C007A2BF1 /* IRFloatMenuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B5DF8AD31CAAC13C007A2BF1 /* IRFloatMenuTests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,22 +28,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		B5DF8AAF1CAAC13B007A2BF1 /* Try_Sprite_view.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Try_Sprite_view.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5DF8AAF1CAAC13B007A2BF1 /* IRFloatMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IRFloatMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5DF8AB31CAAC13B007A2BF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5DF8AB41CAAC13B007A2BF1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B5DF8AB61CAAC13B007A2BF1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B5DF8AB71CAAC13B007A2BF1 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		B5DF8AB91CAAC13B007A2BF1 /* GameScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameScene.h; sourceTree = "<group>"; };
 		B5DF8ABA1CAAC13B007A2BF1 /* GameScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameScene.m; sourceTree = "<group>"; };
-		B5DF8ABC1CAAC13B007A2BF1 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 		B5DF8ABE1CAAC13B007A2BF1 /* GameViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GameViewController.h; sourceTree = "<group>"; };
 		B5DF8ABF1CAAC13B007A2BF1 /* GameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GameViewController.m; sourceTree = "<group>"; };
 		B5DF8AC21CAAC13B007A2BF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B5DF8AC41CAAC13B007A2BF1 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		B5DF8AC71CAAC13B007A2BF1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		B5DF8ACD1CAAC13B007A2BF1 /* Try_Sprite_viewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Try_Sprite_viewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B5DF8ACD1CAAC13B007A2BF1 /* IRFloatMenuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IRFloatMenuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5DF8AD21CAAC13C007A2BF1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B5DF8AD31CAAC13C007A2BF1 /* Try_Sprite_viewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Try_Sprite_viewTests.m; sourceTree = "<group>"; };
+		B5DF8AD31CAAC13C007A2BF1 /* IRFloatMenuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = IRFloatMenuTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,8 +66,8 @@
 		B5DF8AA61CAAC13B007A2BF1 = {
 			isa = PBXGroup;
 			children = (
-				B5DF8AB11CAAC13B007A2BF1 /* Try_Sprite_view */,
-				B5DF8AD01CAAC13C007A2BF1 /* Try_Sprite_viewTests */,
+				B5DF8AB11CAAC13B007A2BF1 /* IRFloatMenu */,
+				B5DF8AD01CAAC13C007A2BF1 /* IRFloatMenuTests */,
 				B5DF8AB01CAAC13B007A2BF1 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -77,20 +75,19 @@
 		B5DF8AB01CAAC13B007A2BF1 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B5DF8AAF1CAAC13B007A2BF1 /* Try_Sprite_view.app */,
-				B5DF8ACD1CAAC13B007A2BF1 /* Try_Sprite_viewTests.xctest */,
+				B5DF8AAF1CAAC13B007A2BF1 /* IRFloatMenu.app */,
+				B5DF8ACD1CAAC13B007A2BF1 /* IRFloatMenuTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B5DF8AB11CAAC13B007A2BF1 /* Try_Sprite_view */ = {
+		B5DF8AB11CAAC13B007A2BF1 /* IRFloatMenu */ = {
 			isa = PBXGroup;
 			children = (
 				B5DF8AB61CAAC13B007A2BF1 /* AppDelegate.h */,
 				B5DF8AB71CAAC13B007A2BF1 /* AppDelegate.m */,
 				B5DF8AB91CAAC13B007A2BF1 /* GameScene.h */,
 				B5DF8ABA1CAAC13B007A2BF1 /* GameScene.m */,
-				B5DF8ABC1CAAC13B007A2BF1 /* GameScene.sks */,
 				B5DF8ABE1CAAC13B007A2BF1 /* GameViewController.h */,
 				B5DF8ABF1CAAC13B007A2BF1 /* GameViewController.m */,
 				B5DF8AC11CAAC13B007A2BF1 /* Main.storyboard */,
@@ -98,7 +95,7 @@
 				B5DF8AC61CAAC13B007A2BF1 /* LaunchScreen.xib */,
 				B5DF8AB21CAAC13B007A2BF1 /* Supporting Files */,
 			);
-			path = Try_Sprite_view;
+			path = IRFloatMenu;
 			sourceTree = "<group>";
 		};
 		B5DF8AB21CAAC13B007A2BF1 /* Supporting Files */ = {
@@ -110,13 +107,13 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		B5DF8AD01CAAC13C007A2BF1 /* Try_Sprite_viewTests */ = {
+		B5DF8AD01CAAC13C007A2BF1 /* IRFloatMenuTests */ = {
 			isa = PBXGroup;
 			children = (
-				B5DF8AD31CAAC13C007A2BF1 /* Try_Sprite_viewTests.m */,
+				B5DF8AD31CAAC13C007A2BF1 /* IRFloatMenuTests.m */,
 				B5DF8AD11CAAC13C007A2BF1 /* Supporting Files */,
 			);
-			path = Try_Sprite_viewTests;
+			path = IRFloatMenuTests;
 			sourceTree = "<group>";
 		};
 		B5DF8AD11CAAC13C007A2BF1 /* Supporting Files */ = {
@@ -130,9 +127,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B5DF8AAE1CAAC13B007A2BF1 /* Try_Sprite_view */ = {
+		B5DF8AAE1CAAC13B007A2BF1 /* IRFloatMenu */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5DF8AD71CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "Try_Sprite_view" */;
+			buildConfigurationList = B5DF8AD71CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "IRFloatMenu" */;
 			buildPhases = (
 				B5DF8AAB1CAAC13B007A2BF1 /* Sources */,
 				B5DF8AAC1CAAC13B007A2BF1 /* Frameworks */,
@@ -142,14 +139,14 @@
 			);
 			dependencies = (
 			);
-			name = Try_Sprite_view;
+			name = IRFloatMenu;
 			productName = Try_Sprite_view;
-			productReference = B5DF8AAF1CAAC13B007A2BF1 /* Try_Sprite_view.app */;
+			productReference = B5DF8AAF1CAAC13B007A2BF1 /* IRFloatMenu.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B5DF8ACC1CAAC13B007A2BF1 /* Try_Sprite_viewTests */ = {
+		B5DF8ACC1CAAC13B007A2BF1 /* IRFloatMenuTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B5DF8ADA1CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "Try_Sprite_viewTests" */;
+			buildConfigurationList = B5DF8ADA1CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "IRFloatMenuTests" */;
 			buildPhases = (
 				B5DF8AC91CAAC13B007A2BF1 /* Sources */,
 				B5DF8ACA1CAAC13B007A2BF1 /* Frameworks */,
@@ -160,9 +157,9 @@
 			dependencies = (
 				B5DF8ACF1CAAC13B007A2BF1 /* PBXTargetDependency */,
 			);
-			name = Try_Sprite_viewTests;
+			name = IRFloatMenuTests;
 			productName = Try_Sprite_viewTests;
-			productReference = B5DF8ACD1CAAC13B007A2BF1 /* Try_Sprite_viewTests.xctest */;
+			productReference = B5DF8ACD1CAAC13B007A2BF1 /* IRFloatMenuTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -183,11 +180,12 @@
 					};
 				};
 			};
-			buildConfigurationList = B5DF8AAA1CAAC13B007A2BF1 /* Build configuration list for PBXProject "Try_Sprite_view" */;
+			buildConfigurationList = B5DF8AAA1CAAC13B007A2BF1 /* Build configuration list for PBXProject "IRFloatMenu" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -196,8 +194,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B5DF8AAE1CAAC13B007A2BF1 /* Try_Sprite_view */,
-				B5DF8ACC1CAAC13B007A2BF1 /* Try_Sprite_viewTests */,
+				B5DF8AAE1CAAC13B007A2BF1 /* IRFloatMenu */,
+				B5DF8ACC1CAAC13B007A2BF1 /* IRFloatMenuTests */,
 			);
 		};
 /* End PBXProject section */
@@ -209,7 +207,6 @@
 			files = (
 				B5DF8AC81CAAC13B007A2BF1 /* LaunchScreen.xib in Resources */,
 				B5DF8AC51CAAC13B007A2BF1 /* Images.xcassets in Resources */,
-				B5DF8ABD1CAAC13B007A2BF1 /* GameScene.sks in Resources */,
 				B5DF8AC31CAAC13B007A2BF1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,7 +236,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B5DF8AD41CAAC13C007A2BF1 /* Try_Sprite_viewTests.m in Sources */,
+				B5DF8AD41CAAC13C007A2BF1 /* IRFloatMenuTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,7 +245,7 @@
 /* Begin PBXTargetDependency section */
 		B5DF8ACF1CAAC13B007A2BF1 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B5DF8AAE1CAAC13B007A2BF1 /* Try_Sprite_view */;
+			target = B5DF8AAE1CAAC13B007A2BF1 /* IRFloatMenu */;
 			targetProxy = B5DF8ACE1CAAC13B007A2BF1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -357,7 +354,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Try_Sprite_view/Info.plist;
+				INFOPLIST_FILE = IRFloatMenu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -367,7 +365,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = Try_Sprite_view/Info.plist;
+				INFOPLIST_FILE = IRFloatMenu/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -385,10 +384,10 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = Try_Sprite_viewTests/Info.plist;
+				INFOPLIST_FILE = IRFloatMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Try_Sprite_view.app/Try_Sprite_view";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IRFloatMenu.app/IRFloatMenu";
 			};
 			name = Debug;
 		};
@@ -400,17 +399,17 @@
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = Try_Sprite_viewTests/Info.plist;
+				INFOPLIST_FILE = IRFloatMenu/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Try_Sprite_view.app/Try_Sprite_view";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/IRFloatMenu.app/IRFloatMenu";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B5DF8AAA1CAAC13B007A2BF1 /* Build configuration list for PBXProject "Try_Sprite_view" */ = {
+		B5DF8AAA1CAAC13B007A2BF1 /* Build configuration list for PBXProject "IRFloatMenu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5DF8AD51CAAC13C007A2BF1 /* Debug */,
@@ -419,21 +418,23 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B5DF8AD71CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "Try_Sprite_view" */ = {
+		B5DF8AD71CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "IRFloatMenu" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5DF8AD81CAAC13C007A2BF1 /* Debug */,
 				B5DF8AD91CAAC13C007A2BF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		B5DF8ADA1CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "Try_Sprite_viewTests" */ = {
+		B5DF8ADA1CAAC13C007A2BF1 /* Build configuration list for PBXNativeTarget "IRFloatMenuTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B5DF8ADB1CAAC13C007A2BF1 /* Debug */,
 				B5DF8ADC1CAAC13C007A2BF1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
